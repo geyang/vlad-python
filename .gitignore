@@ -1,0 +1,8 @@
+.idea
+.DS_Store
+.env
+*secret*
+
+.cache
+data
+__pycache__
